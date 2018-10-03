@@ -1,0 +1,1 @@
+il y a des trés simple et de trés difficile les logique sont différentmes voila
