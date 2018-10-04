@@ -10,7 +10,7 @@ entreprise_money = entreprise.zip(money).to_h
 maximal = money.max
 puts "la valeur maximal est #{maximal}"
 minimal = money.min
-puts "la valeur maximal est #{minimal}"
+puts "la valeur minimal est #{minimal}"
 b = 0
 entreprise.each {|x|
 	x.downcase
